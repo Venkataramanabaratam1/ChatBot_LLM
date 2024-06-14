@@ -1,0 +1,6 @@
+streamlit
+boto3
+openai==0.28
+google-generativeai
+ipython
+streamlit_chat
